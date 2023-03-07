@@ -1,2 +1,3 @@
-# NetflixMoviesAndTvShowsClustering
-Netflix Movies And Tv Shows Clustering with EDA
+
+</p>
+<h1 align="center"> Netflix-Movies-and-TV-Shows-Clustering </h1>
