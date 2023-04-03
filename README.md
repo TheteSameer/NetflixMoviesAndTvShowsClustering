@@ -2,6 +2,7 @@
 </p>
 <h1 align="center"> <i>Netflix Movies and TV Shows Clustering</i></h1>
 <h2 align="center">(Unsupervised Machine Learning) </i></h2>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter <img width="664" alt="image_19400_1_5042248765" src="https://user-images.githubusercontent.com/121742479/229417541-62236170-e834-4584-a0f6-d810f287772e.png"></a> </h3>
 
 ><p>Netflix Recommender recommends Netflix movies and TV shows based on a user's favorite movie or TV show. It uses a  a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions..</p>
 
